@@ -50,15 +50,11 @@ assign f2 = ((~y & z) | (w & y) | (x & y));
 endmodule
 ~~~
 
-**RTL realization**
-
 **Output:**
 ![DE exp-2 waveform](https://github.com/user-attachments/assets/7ad4978b-bca7-464b-acc6-4ef21c6852b8)
 
 **RTL**
-![DE exp-2 logic gates](https://github.com/user-attachments/assets/f185ae83-6932-4155-9aec-12b0a0e38b40)
-
-**Timing Diagram**
+![DE exp-2 logic gates](https://github.com/user-attachments/assets/f185ae83-6932-4155-9aec-12b0a0e38b40).
 
 **Result:**
 
